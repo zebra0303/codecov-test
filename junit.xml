@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="6" failures="0" errors="0" time="2.29">
+  <testsuite name="Home" errors="0" failures="0" skipped="0" timestamp="2024-09-24T06:27:31" time="0.78" tests="1">
+    <testcase classname="Home renders a heading" name="Home renders a heading" time="0.042">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2024-09-24T06:27:32" time="0.259" tests="1">
+    <testcase classname=" App Router: Works with Client Components (React State)" name=" App Router: Works with Client Components (React State)" time="0.017">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2024-09-24T06:27:32" time="0.21" tests="1">
+    <testcase classname=" App Router: Works with Server Components" name=" App Router: Works with Server Components" time="0.004">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2024-09-24T06:27:32" time="0.214" tests="1">
+    <testcase classname=" App Router: Works with dynamic route segments" name=" App Router: Works with dynamic route segments" time="0.005">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2024-09-24T06:27:32" time="0.222" tests="1">
+    <testcase classname=" renders homepage unchanged" name=" renders homepage unchanged" time="0.006">
+    </testcase>
+  </testsuite>
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2024-09-24T06:27:33" time="0.129" tests="1">
+    <testcase classname=" Test functions that import server-only" name=" Test functions that import server-only" time="0.001">
+    </testcase>
+  </testsuite>
+</testsuites>
